@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: From The Ashes Reborn
+description: 3rd Person Hack 'n Slash Action Game
+img: assets/img/ftar.png
+redirect: https://convergentdreamsgames.itch.io/from-the-ashes-reborn
 importance: 3
 category: work
 ---

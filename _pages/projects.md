@@ -1,11 +1,10 @@
 ---
 layout: page
-title: projects
+title: Portforlio
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: An expanding collection of my game projects.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
 horizontal: false
 ---
 
