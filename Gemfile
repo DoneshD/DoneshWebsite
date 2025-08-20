@@ -1,18 +1,22 @@
 source 'https://rubygems.org'
 
-gem 'jekyll'
+
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
-    gem 'wdm', '>= 0.1.0'
+    gem 'wdm', '>= 0.1.0', platforms: [:mswin, :mingw, :x64_mingw]
+    gem "jekyll", "~> 4.4.1"
+    gem 'kramdown-parser-gfm'
     gem 'jekyll-archives-v2'
     gem 'jekyll-email-protect'
     gem 'jekyll-feed'
+    gem 'jekyll-sass-converter', '~> 3.0', '>= 3.0.0'
     gem 'jekyll-get-json'
     gem 'jekyll-imagemagick'
-    gem 'jekyll-jupyter-notebook'
+    gem 'jekyll-jupyter-notebook' 
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
+    gem 'mini_racer'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-regex-replace'
     gem 'jekyll-scholar'
@@ -37,3 +41,5 @@ group :other_plugins do
     # gem 'unicode_utils' -- should be already installed by jekyll
     # gem 'webrick' -- should be already installed by jekyll
 end
+
+gem "webrick", "~> 1.9"
