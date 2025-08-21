@@ -11,9 +11,9 @@ I am a game designer with 3+ years of experience using Unreal Engine. I speciali
 
 I am deeply passionate in creating deepy intricate mechanics that enable the player to experience an exciting and new way to combat. I have extensive knowledge using some of the latest tools and frameworks, including Perfoce Version Control and Gameplay Ability System to name a few.
 
-I am currently developing [From The Ashes: Reborn](http://convergentdreamsgames.itch.io/) - a 3rd person hack n' slash game in Unreal Engine 5.
+I am currently developing [From The Ashes: Reborn](http://convergentdreamsgames.itch.io/from-the-ashes-reborn) - a 3rd person hack n' slash game in Unreal Engine 5.
 
-<video autoplay muted loop playsinline width="100%" style="border-radius: 12px;">
+<video autoplay muted loop playsinline controls width="100%" style="border-radius: 12px;">
   <source src="{{ '/assets/ftar_vid.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
