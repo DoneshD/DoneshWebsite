@@ -7,60 +7,60 @@ ninja.data = [{
     title: "About",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/DoneshWebsite/";
+      window.location.href = "/dev/";
     },
   },{id: "nav-portforlio",
           title: "Portforlio",
           description: "An expanding collection of my game projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/DoneshWebsite/projects/";
+            window.location.href = "/dev/projects/";
           },
         },{id: "nav-repositories",
           title: "repositories",
           description: "Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/DoneshWebsite/repositories/";
+            window.location.href = "/dev/repositories/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/DoneshWebsite/cv/";
+            window.location.href = "/dev/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Materials for courses you taught. Replace this text with your description.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/DoneshWebsite/teaching/";
+            window.location.href = "/dev/teaching/";
           },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/DoneshWebsite/people/";
+            window.location.href = "/dev/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/DoneshWebsite/books/";
+                window.location.href = "/dev/books/";
               },
             },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/DoneshWebsite/books/the_godfather.html";
+              window.location.href = "/dev/books/the_godfather.html";
             },},{id: "projects-from-the-ashes-reborn",
           title: 'From The Ashes Reborn',
           description: "3rd Person Hack &#39;n Slash Action Game",
           section: "Projects",handler: () => {
-              window.location.href = "/DoneshWebsite/projects/3_project.html";
+              window.location.href = "/dev/projects/3_project.html";
             },},{
         id: 'social-email',
         title: 'email',
@@ -80,7 +80,7 @@ ninja.data = [{
         title: 'RSS Feed',
         section: 'Socials',
         handler: () => {
-          window.open("/DoneshWebsite/feed.xml", "_blank");
+          window.open("/dev/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',
