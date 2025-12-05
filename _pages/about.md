@@ -26,6 +26,13 @@ Currently, I am developing [From The Ashes: Reborn](http://convergentdreamsgames
 ---
 
 <video autoplay muted loop playsinline controls width="100%" style="border-radius: 12px;">
+  <source src="{{ '/assets/FTAR_Encounter.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+<video autoplay muted loop playsinline controls width="100%" style="border-radius: 12px;">
   <source src="{{ '/assets/ftar_vid.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
