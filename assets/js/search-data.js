@@ -58,7 +58,7 @@ ninja.data = [{
               window.location.href = "/DoneshWebsite/books/the_godfather.html";
             },},{id: "projects-from-the-ashes-reborn",
           title: 'From The Ashes Reborn',
-          description: "3rd Person Hack &#39;n Slash Action Game",
+          description: "3rd Person Hack &#39;n Slash Action",
           section: "Projects",handler: () => {
               window.location.href = "/DoneshWebsite/projects/3_project.html";
             },},{
