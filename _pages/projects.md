@@ -8,6 +8,9 @@ nav_order: 3
 horizontal: false
 ---
 
+
+
+
 <!-- pages/projects.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -62,3 +65,14 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem; margin-top: 1.5rem;"> 
+<div style="flex: 1; min-width: 250px;"> <h3>Contributions</h3> <ul> 
+<li>Implemented a custom combo system supporting chaining and branching inspired by DMC and Metal Gear Rising</li> 
+<li>Created a weapon-centric character architecture where each equipped weapon dynamically define the players playstyle</li> 
+<li>Engineered a AI system inspired by DOOM-style token system to enable a one-vs-many feeling</li> </ul> </div> 
+
+<div style="flex: 1; min-width: 250px;"> <h3>Technical Features</h3> <ul> 
+<li>Uses a custom Gameplay Ability System framework in C++ to use Unreal Engine data structures, such as data assets, UObjects, and gameplay tags for a data-driven ability architecture</li> 
+<li>Utilizes Unreal Engine's State Trees for modular AI behavior capable of scaling as new attack patterns emerge and grow</li> 
+<li>Built primarily with Unreal Engine C++, hosted with a Perforce Server and backup with Git Version Control</li> 

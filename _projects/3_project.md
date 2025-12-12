@@ -1,12 +1,14 @@
 ---
 layout: page
 title: From The Ashes Reborn
-description: 3rd Person Hack 'n Slash Action Game
+description: 3rd Person Hack 'n Slash Action
 img: assets/img/ftar.png
 redirect: https://convergentdreamsgames.itch.io/from-the-ashes-reborn
 importance: 3
 category: work
 ---
+
+
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
