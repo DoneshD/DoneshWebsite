@@ -3,6 +3,14 @@ layout: about
 title: About
 permalink: /
 subtitle: Game Designer and Programmer
+---
+
+
+<h1 style="color: #b91c1c;">IMPORTANT: THIS WEBSITE HAS MOVED!</h1>
+
+
+### Click the link to visit my new website: [doneshdava.wixsite.com/donesh](https://doneshdava.wixsite.com/donesh)
+
 
 ---
 
@@ -50,15 +58,3 @@ Check out my latest update and progress [here](https://www.youtube.com/watch?v=C
       style="position: absolute; top:0; left:0; width:100%; height:100%; border-radius: 8px;">
   </iframe>
 </div>
-
-<!-- <video autoplay muted loop playsinline controls width="100%" style="border-radius: 12px;">
-  <source src="{{ '/assets/FTAREncounter.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
----
-
-<video autoplay muted loop playsinline controls width="100%" style="border-radius: 12px;">
-  <source src="{{ '/assets/ftar_vid.mp4' | relative_url }}" type="video/mp4">
-  Your browser does not support the video tag.
-</video> -->
